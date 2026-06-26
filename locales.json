@@ -1,0 +1,98 @@
+{
+  "default": "en",
+  "siteUrl": "https://www.parfastenersindia.com",
+  "storageKey": "par_lang",
+  "pages": ["index.html", "productsRange.html", "ourCustomers.html"],
+  "locales": {
+    "en": {
+      "name": "English",
+      "native": "English",
+      "hreflang": "en",
+      "ogLocale": "en_US",
+      "dir": "ltr",
+      "path": "",
+      "translateTarget": "en"
+    },
+    "de": {
+      "name": "German",
+      "native": "Deutsch",
+      "hreflang": "de",
+      "ogLocale": "de_DE",
+      "dir": "ltr",
+      "path": "de",
+      "translateTarget": "de"
+    },
+    "es": {
+      "name": "Spanish",
+      "native": "Español",
+      "hreflang": "es",
+      "ogLocale": "es_ES",
+      "dir": "ltr",
+      "path": "es",
+      "translateTarget": "es"
+    },
+    "fr": {
+      "name": "French",
+      "native": "Français",
+      "hreflang": "fr",
+      "ogLocale": "fr_FR",
+      "dir": "ltr",
+      "path": "fr",
+      "translateTarget": "fr"
+    },
+    "pt-br": {
+      "name": "Portuguese · Brazil",
+      "native": "Português",
+      "hreflang": "pt-BR",
+      "ogLocale": "pt_BR",
+      "dir": "ltr",
+      "path": "pt-br",
+      "translateTarget": "pt"
+    },
+    "ar": {
+      "name": "Arabic",
+      "native": "العربية",
+      "hreflang": "ar",
+      "ogLocale": "ar_SA",
+      "dir": "rtl",
+      "path": "ar",
+      "translateTarget": "ar"
+    },
+    "ru": {
+      "name": "Russian",
+      "native": "Русский",
+      "hreflang": "ru",
+      "ogLocale": "ru_RU",
+      "dir": "ltr",
+      "path": "ru",
+      "translateTarget": "ru"
+    },
+    "it": {
+      "name": "Italian",
+      "native": "Italiano",
+      "hreflang": "it",
+      "ogLocale": "it_IT",
+      "dir": "ltr",
+      "path": "it",
+      "translateTarget": "it"
+    },
+    "ja": {
+      "name": "Japanese",
+      "native": "日本語",
+      "hreflang": "ja",
+      "ogLocale": "ja_JP",
+      "dir": "ltr",
+      "path": "ja",
+      "translateTarget": "ja"
+    },
+    "zh-cn": {
+      "name": "Chinese · Simplified",
+      "native": "简体中文",
+      "hreflang": "zh-Hans",
+      "ogLocale": "zh_CN",
+      "dir": "ltr",
+      "path": "zh-cn",
+      "translateTarget": "zh-CN"
+    }
+  }
+}

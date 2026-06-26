@@ -89,7 +89,6 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 #topbar .social-links a {
   color: #5c768d;
   padding: 4px 12px;
-  display: inline-block;
   line-height: 1px;
   transition: 0.3s;
 }

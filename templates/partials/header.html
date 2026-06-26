@@ -1,0 +1,24 @@
+  <header id="header">
+    <div class="container">
+      <div class="logo float-left">
+        <h1 class="text-light"><a href="{{_homeUrl}}"><span>{{brand.name}}</span></a></h1>
+        <a href="{{_homeUrl}}"><img src="/assets/img/logo.png" alt="{{brand.name}}" class="img-fluid"></a>
+        <p class="tagline">{{brand.tagline}}</p>
+      </div>
+      <div class="lang-selector-mobile d-lg-none">
+        <div id="lang-selector-mobile" class="lang-selector" data-current-locale="{{_localeId}}"></div>
+      </div>
+      <nav class="nav-menu float-right d-none d-lg-block">
+        <ul>
+          <li class="{{_navHomeActive}}"><a href="{{_homeUrl}}">{{nav.home}}</a></li>
+          <li class="{{_navAboutActive}}"><a href="{{_navAbout}}">{{nav.about}}</a></li>
+          <li class="{{_navServicesActive}}"><a href="{{_navServices}}">{{nav.services}}</a></li>
+          <li class="{{_navQualityActive}}"><a href="{{_navQuality}}">{{nav.quality}}</a></li>
+          <li class="{{_navProductsActive}}"><a href="{{_navProducts}}">{{nav.products}}</a></li>
+          <li class="{{_navProductRangeActive}}"><a href="{{_navProductRange}}">{{nav.productRange}}</a></li>
+          <li class="{{_navCustomersActive}}"><a href="{{_navCustomers}}">{{nav.customers}}</a></li>
+          <li class="{{_navContactActive}}"><a href="{{_navContact}}">{{nav.contact}}</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>

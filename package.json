@@ -1,0 +1,9 @@
+{
+  "name": "par-industries-site",
+  "private": true,
+  "scripts": {
+    "translate": "python3 scripts/translate.py",
+    "build": "python3 scripts/build.py",
+    "i18n": "python3 scripts/translate.py && python3 scripts/build.py"
+  }
+}
